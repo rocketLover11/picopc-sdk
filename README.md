@@ -15,7 +15,7 @@ Put the SDK in your project's Cargo.toml
 
 ```toml
   [dependencies]
-  picopc-sdk = "0.1.1"
+  picopc-sdk = "0.1.3"
 ```
     
 ## Documentation
