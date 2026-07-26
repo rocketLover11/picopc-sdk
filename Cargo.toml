@@ -1,0 +1,10 @@
+[package]
+name = "picopc-sdk"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "The official SDK for PicoPC"
+repository = "https://github.com/rocketLover11/picopc-sdk"
+readme = "README.md"
+
+[dependencies]
