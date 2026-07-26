@@ -8,15 +8,6 @@ The official SDK for PicoPC
 
 - [@rocketLover11](https://www.github.com/rocketLover11)
 
-
-## Installation
-
-Put the SDK in your project's Cargo.toml
-
-```toml
-  [dependencies]
-  picopc-sdk = "0.1.3"
-```
     
 ## Documentation
 
